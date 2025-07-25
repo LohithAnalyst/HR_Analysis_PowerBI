@@ -10,7 +10,7 @@ A comprehensive Power BI dashboard project that analyzes employee attrition tren
 ## 🌐 Interactive Dashboard
 
 You can explore the full interactive Power BI report here:  
-👉 [**Click to View Business Insight 360 Dashboard**]()
+👉 [**Click to View Business Insight 360 Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNDI4ZjNmNzUtODJmYi00OTBkLTlkMzYtOGMyNzNiOGU5OTczIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 > _Note: You may need to sign in with a Microsoft account to view the report if it's hosted on Power BI Service._
 ---
@@ -121,7 +121,7 @@ The primary goal of this project is to:
 ---
 
 
-## 💡 Recommendations
+## 💡5. Recommendations
 
 - 🤝 Improve onboarding and mentorship for younger employees  
 - 📈 Redesign career paths and incentives for Sales and HR  
