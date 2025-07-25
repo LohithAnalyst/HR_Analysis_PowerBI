@@ -3,7 +3,7 @@
 A comprehensive Power BI dashboard project that analyzes employee attrition trends across departments, age groups, job roles, and education fields. This project provides critical insights to support HR leaders in retaining talent, enhancing satisfaction, and optimizing workforce planning.
 
 ---
-![]()
+![](https://github.com/LohithAnalyst/HR_Analysis_PowerBI/blob/bf480ed4cb19a40a7ea29084312afc345076e305/HR_Analysis.png)
 
 ---
 
